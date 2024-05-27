@@ -55,11 +55,3 @@ Use tools like Postman or cURL to interact with the API endpoints. For example:
 ```sh
 curl -X GET http://localhost:5000/api/entities
 ```
-
-## Contributing
-
-Contributions are welcome! Please create an issue or submit a pull request for any changes.
-
-## License
-
-This project is licensed under the MIT License.
